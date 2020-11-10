@@ -40,7 +40,7 @@ Inside octo-events-api/ directory run:
 Tests were implemented using Minitest Gem.  
 
 
-Run the the unit tests on models with: 
+Run the unit tests on models with: 
 
 
 ```
@@ -48,7 +48,7 @@ Run the the unit tests on models with:
 ```
 ------------------------------------------  
 
-Run the the unit tests on controllers with: 
+Run the unit tests on controllers with: 
 
 
 ```
