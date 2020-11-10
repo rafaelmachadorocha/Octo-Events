@@ -17,7 +17,7 @@ PostgreSQL 12.4
 
 # Setup  
 
-Inside octo-events-api/ directory run:  
+Inside project directory run:  
 
 
 ```
